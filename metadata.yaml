@@ -3,5 +3,5 @@ documentation: "https://github.com/cakmakumut/ga4_client_id_session_info"
 versions:
 
   # Latest version
-  - sha: 08b06137175b59eca10437274920c22829d7e4da
+  - sha: 4efe65c8a7bb4e912068280532d2f565ef41e413
     changeNotes: Initial release.
