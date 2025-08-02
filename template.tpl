@@ -21,7 +21,7 @@ ___INFO___
   "brand": {
     "id": "umut-cakmak",
     "displayName": "Umut Cakmak"
-  }
+  },
   "containerContexts": [
     "WEB"
   ]
