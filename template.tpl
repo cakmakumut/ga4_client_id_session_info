@@ -15,13 +15,6 @@ ___INFO___
   "securityGroups": [],
   "displayName": "GA4 Client ID \u0026 Session Info",
   "description": "get GA4 client id, session id and session number information",
-  "categories": [
-    "ANALYTICS"
-  ],
-  "brand": {
-    "id": "umut-cakmak",
-    "displayName": "Umut Cakmak"
-  },
   "containerContexts": [
     "WEB"
   ]
